@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "project": "cube-polyglot-notation",
+    "supported_languages": ["en", "la", "es", "ko"]
+  },
+  "lexicon": {
+    "descriptive": {
+      "corner_piece": {
+        "en": "Corner piece",
+        "la": "Segmentum angulare",
+        "es": "Pieza de esquina",
+        "ko": "코너 조각"
+      },
+      "edge_piece": {
+        "en": "Edge piece",
+        "la": "Segmentum marginale",
+        "es": "Pieza de arista",
+        "ko": "엣지 조각"
+      }
+    },
+    "coordination": {
+      "execute_sequence": {
+        "en": "Execute the sequence",
+        "la": "Ordinem exsequere",
+        "es": "Ejecuta la secuencia",
+        "ko": "공식을 실행하세요"
+      },
+      "align_layers": {
+        "en": "Align the layers",
+        "la": "Tabulata aequa",
+        "es": "Alinea las capas",
+        "ko": "층을 정렬하세요"
+      }
+    },
+    "rebuttals": {
+      "creates_parity": {
+        "en": "That creates parity",
+        "la": "Hoc paritatem adfert",
+        "es": "Eso crea paridad",
+        "ko": "그것은 패리티를 유발합니다"
+      }
+    }
+  },
+  "vectors": {
+    "top_face": { "en": "U", "la": "S", "es": "A", "ko": "위" },
+    "bottom_face": { "en": "D", "la": "I", "es": "B", "ko": "아래" },
+    "right_face": { "en": "R", "la": "D", "es": "D", "ko": "오른쪽" },
+    "left_face": { "en": "L", "la": "S", "es": "I", "ko": "왼쪽" },
+    "front_face": { "en": "F", "la": "A", "es": "F", "ko": "앞" },
+    "back_face": { "en": "B", "la": "P", "es": "T", "ko": "뒤" }
+  }
+}
